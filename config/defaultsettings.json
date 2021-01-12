@@ -1,0 +1,15 @@
+{
+  "version": "2.2.0",
+  "initPopup": false,
+  "exportMode": false,
+  "generatedBy": "07e463b4-122c-45cc-be13-9c34b3e66acf",
+  "activeConfigs": [
+    "CodeChickenCore.cfg",
+    "fastcraft.ini",
+    "forge.cfg",
+    "splash.properties"
+  ],
+  "hashes": {},
+  "mainProfile": "Default",
+  "initially_created": "19.11.2020 11:26:53"
+}
